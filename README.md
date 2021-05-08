@@ -57,4 +57,24 @@ El formulari de contacte s'ha fet mitjançant les instruccions proporcionades en
 En aquesta pàgina s'ha introduit un mapa a través de [__Leaflet__](https://leafletjs.com/).  
 Leaflet és una llibreria de JavaScript de codi obert que s'utilitza per a la publicació de mapes a les webs. 
 El mapa que s'ha ficat en aquesta pestanya indica la direcció de la botiga (inventada). També s'ha inclós una petita llegenda que en el cas d'aquest mapa potser no hagués estat necessaria però la vaig incloure per a demostrar que coneixia i dominava aquesta funció que ens proporciona _Leaflet_. 
-Per a fer el mapa, vaig seguir el tutorial que ens proporciona la pàgina oficial de _Leaflet_.
+Per a fer el mapa, vaig seguir el tutorial que ens proporciona la pàgina oficial de _Leaflet_. Vaig anar ficant totes les comandes que s'indicaven i finalment vaig ficar les coordenades corresponents al punt que volia mostrar.  
+
+
+## Pràctica 2. Disseny d'una web dinàmica
+En la pràctica número 2 vaig incloure una nova pestanya a la pàgina web, anomenada _¿Dónde enviamos?_.  
+L'objectiu de la pràcitca era aprendre a utilitzar una connexió a través d'una API remota. La API escollida va ser [Rest Countries](https://restcountries.eu/).  
+Els passos realitzats per a crear l'enllaç van ser els següents:
+1. Agafar el codi JSON que em proporcionaca la pàgina escollida i mitjançant el copiar i enganxar a una [pàgina que ordena el codi JSON](https://codebeautify.org/jsonviewer) amb l'objectiu de poder veure tot el codi ordenat i així identificar més facilment els elements que contenia.  
+2. Després d'haver analitzat la informació de manera ordenada, he començat un document HTML nou amb l'objectiu de no crear conflictes amb la meva pàgina web (que posteriorment copiaré aquest codi en la pàgina web definitiva, realitzada a la pràctica 1). La informació escollida per a filtrar ha estat capitals, número de població, continent, i latitud i longitud.
+3. Posteriorment, he decidit fer un altre document Java Script, per tal de seguir les bones pràctiques ensenyades en el primer bloc de l’assignatura, amb l’objectiu de tenir tota la informació ordenada. També, és en aquest pas on he decidit crear una barra desplegable, enlloc d’un buscar com el que vam realitzar a classe, amb l’objectiu de practicar funcions noves i fer exemples diferents.
+4. Traspasso fent un “copia i enganxa” al document HTML de la meva pagina web creada a la pràctica 1, després d’haver comprovat que funciona correctament.
+5. Seguidament, vaig començar l'elaboració del mapa. Es en aquest pas on creo un pin (marcador en el mapa) per a que es desplaci d'un indret a un altre segons l'opció marcada en els països. 
+6. És en aquest punt on em trobo amb un conflicte, ja que en el mapa, quan selecciono un país no se'm mou cap a les coordenades d'aquest, havent ficat les opcions correctament i sobretot la comanda "fly to". Identifico la possible relació amb l'error amb la forma que l'API utilitzada ens proporciona les dades. En l'exemple del Geonames realitzat a classe les dades de longitud i latitud es mostraven de forma separada i independent, en canvi en l'API utilitzada aquestes dades es mostrés de forma conjunta i sense espais.  
+
+## Disseny responsive
+
+## Pràctica 3
+La pràcitca 3 consisteix en la realització de tres tasques principals. La creació d'aquest reedme, la integració d'una taula formatada a la nostra pàgina web i la creació d'un o diversos mapes. 
+
+
+
