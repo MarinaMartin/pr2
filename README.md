@@ -54,4 +54,7 @@ El formulari de contacte s'ha fet mitjançant les instruccions proporcionades en
 
 
 ### Localització 
-
+En aquesta pàgina s'ha introduit un mapa a través de [__Leaflet__](https://leafletjs.com/).  
+Leaflet és una llibreria de JavaScript de codi obert que s'utilitza per a la publicació de mapes a les webs. 
+El mapa que s'ha ficat en aquesta pestanya indica la direcció de la botiga (inventada). També s'ha inclós una petita llegenda que en el cas d'aquest mapa potser no hagués estat necessaria però la vaig incloure per a demostrar que coneixia i dominava aquesta funció que ens proporciona _Leaflet_. 
+Per a fer el mapa, vaig seguir el tutorial que ens proporciona la pàgina oficial de _Leaflet_.
