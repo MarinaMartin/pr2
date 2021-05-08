@@ -72,6 +72,10 @@ Els passos realitzats per a crear l'enllaç van ser els següents:
 6. És en aquest punt on em trobo amb un conflicte, ja que en el mapa, quan selecciono un país no se'm mou cap a les coordenades d'aquest, havent ficat les opcions correctament i sobretot la comanda "fly to". Identifico la possible relació amb l'error amb la forma que l'API utilitzada ens proporciona les dades. En l'exemple del Geonames realitzat a classe les dades de longitud i latitud es mostraven de forma separada i independent, en canvi en l'API utilitzada aquestes dades es mostrés de forma conjunta i sense espais.  
 
 ## Disseny responsive
+El disseny responisive d'aquesta pàgina s'ha fet mitjançant la tècnica de __media queries__.  
+Aquest tipus de disseny responisve s'encarrega de crear punts de trencament en la fulla d'estils CSS permetent així que la pàgina sigui visible correctament en les diferents mides de dispositius.  
+Per tant el que he fet en aquest sistema és establir unes mides en concordança en cada mida de pantalla, per exemple s'han creat les mides per a pantalles de __480px, 782px, 1024px i 1280px__.  En cada una d'aquestes mides s'han establert les caracteristiques dels contenidors, del menú, de les icones del menú i del banner del títol, entre d'altres
+
 
 ## Pràctica 3
 La pràcitca 3 consisteix en la realització de tres tasques principals. La creació d'aquest reedme, la integració d'una taula formatada a la nostra pàgina web i la creació d'un o diversos mapes. 
