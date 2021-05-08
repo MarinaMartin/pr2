@@ -30,5 +30,14 @@ tot això està situat dintre d'un contenidor amb el fons de color rosa. amb un 
 ### Serveis
 En la pàgina de serveis s'exposen els productes que es realitzen.  
 La informació está dividida en 3 blocs o contenidors amb els mateixos estils que en totes les altres pàgines:
-1. Bodes i celebracions 
-···Ramos de novia y réplicas para regalar
+
+1. Bodes i celebracions.
++ Ramos de novia y réplicas para regalar.
+2. Complements.
++ Complements per a novies i invitades.
+3. Arracades de flors.
++ Arracades de flors preservades.
+4. Decoració.
++ Inicials amb flors preservades.  
+
+
