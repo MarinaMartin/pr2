@@ -41,3 +41,17 @@ La informació está dividida en 3 blocs o contenidors amb els mateixos estils q
 + Inicials amb flors preservades.  
 
 
+### Contacte  
+A la pàgina de Contacte, s'ha escrit una breu frase introductoria i a sota d'aquesta s'ha colocat un qüestionari amb 5 apartats:
++ Nom.
++ Cognoms.
++ Número de teléfon.
++ Correu electrònic.
++ I un caixetí per a escriure el cos del missatge.  
+
+Dintre de cada recuadre creat per a que la gent pugui escriure el seu contingut, també s'ha introduit una petita frase per ajudar a indicar millor el contingut que ha d'anar en cada lloc, per exemple al caixetí per a escriure el cos del missatge s'ha introduit la frase _Aquí empieza todo, escríbeme una pequeña descripción de lo que necesitas y te gustaría_.  
+El formulari de contacte s'ha fet mitjançant les instruccions proporcionades en la classe impartida pel professor Carlos Soriano.  
+
+
+### Localització 
+
