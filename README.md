@@ -84,3 +84,6 @@ Per a fer la taula de manera diferent a l'ensenyada a classe i així poder prova
 Per altra banda, he buscat diferents colors a la pàgina [HTML color codes](https://htmlcolorcodes.com/es/) per a donar-li estil a la taula. 
 
 
+## Principals problemes 
+A la realització de la pàgina web m'he trobat amb diferents problemes. El primer problema va ser en el format de les coordenades de la API. L'API utilitzada ens proporcionava els paràmetres de latitut i longitud de manera junta, i només estaven separats per un coma, fet que va provocar que el moviment en el mapa no funciones, és a dir no es movia segons les dades seleccionades.  
+L'altra problema va ser en la realització de la taula. Quan la vaig realitzar amb la web [Tablizer](https://tableizer.journalistopia.com/tableizer.php), només em va proporcionar una estructura molt bàsica que posteriorment vaig modificar a mà. 
