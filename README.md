@@ -98,7 +98,8 @@ L'altre problema va ser en la __realització de la taula__. Quan la vaig realitz
 Finalment, en la realització del __mapa amb QGIS__ també em vaig trobar amb diversos problemes. El principal va ser la introducció de la ruta de les fotografies. També un altre error que vaig cometre va ser la mala introducció d'alguns paràmetres i caràcters en les noves columnes de la taula d'atributs per a la realització del pop-up, fet que va provocar que em sortissin dues imatges dintre del pop-up.
 
 ## Aspectes que milloraria  
-En acabar la web m'he trobat amb diferents aspectes que conviaria en unes següents revisions.  
-+ L'estetica: segurament optaria per una estetica més minimalista i amb menys color
-+ Crearia un altre ordre de les pestanyes que sigués més visual.
-+ Milloraria el funcionament de la API
+En acabar la web m'he trobat amb diferents aspectes que canviaria en unes següents revisions.
++ L'estètica: segurament optaria per una estètica més minimalista i amb menys color
++ Crearia un altre ordre de les pestanyes que fos més visual.
++ Milloraria el funcionament de l'API
++ Hauria fet una web més geogràfica.
