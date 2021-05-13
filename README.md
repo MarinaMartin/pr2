@@ -84,11 +84,11 @@ La pràcitca 3 consisteix en la realització de tres tasques principals. La crea
 Per a fer la taula de manera diferent a l'ensenyada a classe i així poder provar altres métodes he utilitzat la pàgina [Tableizer](https://tableizer.journalistopia.com/tableizer.php), la qual m'ha permés crear el codi de la taula que jo previament havia realitzat en l'Excel. En aquest punt m'he trobat un problema: les cel·les que estaven colapsades de la taula i per tant juntes, no se'm mantenien en el format desitjat. Per a que se'm mostresin juntes he hagut de crear l'opció "colspan" dintre de la fila que volia que es colapses.  
 Per altra banda, he buscat diferents colors a la pàgina [HTML color codes](https://htmlcolorcodes.com/es/) per a donar-li estil a la taula.
 
-### Diagrama amb Mermaid.js  
+#### Diagrama amb Mermaid.js  
 Per a la realització del diagrama he seguit els pasos que s'indiquen en la documentació de la [pàgina oficial de Mermaid](https://mermaid-js.github.io/mermaid/#/). He configurat el diagrama en linia i posteriorment he escrit les comandes corresponents.
 
-### Mapa amb QGIS
-
+#### Mapa amb QGIS
+Primerament vaig fer les fotos amb el telèfon mòbil amb la localització activada. Posteriorment vaig importar les fotos al QGIS i vaig intal·lar el complement QGIS2web. Vaig modificar la taula d'atributs i vaig crear una columna pels pop-ups. En aquest punt em van sorgir diversos problemes els quals s'expliquen en l'apartat de problemes. 
 
 
 ## Principals problemes 
